@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebireageon.github.io/sitemap.html.gz
+Sitemap: https://ebireageon.github.io/app/sitemap.html.gz
+Sitemap: https://ebireageon.github.io/assets/sitemap.html.gz
+Sitemap: https://ebireageon.github.io/css/sitemap.html.gz
+Sitemap: https://ebireageon.github.io/includes/sitemap.html.gz
+Sitemap: https://ebireageon.github.io/item/sitemap.html.gz
+Sitemap: https://ebireageon.github.io/src/sitemap.html.gz
